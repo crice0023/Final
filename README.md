@@ -7,10 +7,11 @@
 This application allows users to explore and analyze attitudes towards gender roles and immigrants using EVS data. Navigate through the tabs to explore different aspects of the data.
 
 
+# Issues Unresolved # 
 
 
-
-
+# Link to Shiny App # 
+https://crice0023.shinyapps.io/Final_Shiny/
 
 
 ## Session Info
