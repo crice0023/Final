@@ -2,18 +2,23 @@
 ### Chris Rice
 ## EVS Data Shiny Product
 
+# File Structure #
+The structure is simple. All files are included in the Final_Shiny folder. However, the README is housed outside of that file. 
+
 # Project Overview #
 
-This application allows users to explore and analyze attitudes towards gender roles and immigrants using EVS data. Navigate through the tabs to explore different aspects of the data.
+We used a clean data set from HW-2 and created a Shiny App that included an Overview, Exploration, Regression, Sex/Edu control buttons, Poly Age scroll bar, and a Download Report button. This application allows users to explore and analyze attitudes towards gender roles and immigrants using EVS data. Navigate through the tabs to explore different aspects of the data. There is a drop down with Overall countries and specific countries by name. 
 
 
-# Issues Unresolved # 
+# Issues Unresolved # ☹️
+
+Much to my chagrin I was unable to get any data to change with the sex/edu control buttons. I spent at least 40 hours trying and it was very frustrating. This would have been a great thing to have help with in my opinion. However, maybe it does work and there are so few changes in the data, or poor data connectivity causing the problems. 
 
 
 # Link to Shiny App # 👍
 we established a connection to shinyapps.io and confirmed any interested parties could effectively see the output we created. Unfortunately, there was an initial issue that would not allow users to view the output. Specifically, we learned that we needed to add the df1 (dataframe) reference to our shiny app.R code. Once that was in place the problem was resolved. Here is a link to the shiny app [Shiny App Link](https://crice0023.shinyapps.io/Final_Shiny/)
 
-🫀
+:anatomical_heart: 
 
 ## Session Info
 
