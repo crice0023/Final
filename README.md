@@ -10,9 +10,10 @@ This application allows users to explore and analyze attitudes towards gender ro
 # Issues Unresolved # 
 
 
-# Link to Shiny App # 
-https://crice0023.shinyapps.io/Final_Shiny/
+# Link to Shiny App # 👍
+we established a connection to shinyapps.io and confirmed any interested parties could effectively see the output we created. Unfortunately, there was an initial issue that would not allow users to view the output. Specifically, we learned that we needed to add the df1 (dataframe) reference to our shiny app.R code. Once that was in place the problem was resolved. Here is a link to the shiny app [Shiny App Link](https://crice0023.shinyapps.io/Final_Shiny/)
 
+🫀
 
 ## Session Info
 
