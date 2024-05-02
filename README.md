@@ -14,6 +14,10 @@ We used a clean data set from HW-2 and created a Shiny App that included an Over
 
 Much to my chagrin I was unable to get any data to change with the sex/edu control buttons. I spent at least 40 hours trying and it was very frustrating. This would have been a great thing to have help with in my opinion. However, maybe it does work and there are so few changes in the data, or poor data connectivity causing the problems. 
 
+Age Polynomial Degree slide works wonderfully with the regression table and residual vs fitted plot. However, the 'sex' and 'edu'. For the 'sex' and 'edu' toggle buttons they flash as if to work but I do not see data changes in the regression table or residual vs fitted plot. 
+
+The download report button does not work from the shiny web application. 
+
 
 # Link to Shiny App # 👍
 we established a connection to shinyapps.io and confirmed any interested parties could effectively see the output we created. Unfortunately, there was an initial issue that would not allow users to view the output. Specifically, we learned that we needed to add the df1 (dataframe) reference to our shiny app.R code. Once that was in place the problem was resolved. Here is a link to the shiny app [Shiny App Link](https://crice0023.shinyapps.io/Final_Shiny/)
