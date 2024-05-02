@@ -1,0 +1,22 @@
+---
+title: "EVS Data Analysis Report"
+output: pdf_document
+params:
+  plot1: NULL
+  plot2: NULL
+  regModel: NULL
+  resPlot: NULL
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+
+print(params$plot1)
+
+print(params$plot2)
+
+
+params$regModel
+
+print(params$resPlot)

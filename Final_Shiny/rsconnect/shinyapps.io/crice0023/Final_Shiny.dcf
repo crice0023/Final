@@ -1,0 +1,12 @@
+name: Final_Shiny
+title: Final_Shiny
+username: crice0023
+account: crice0023
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11921184
+bundleId: 8568976
+url: https://crice0023.shinyapps.io/Final_Shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
